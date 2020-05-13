@@ -13,3 +13,4 @@ schema = graphene.Schema(
     query=Query,
     mutation=gql.schema.MyMutations
 )
+
